@@ -1,7 +1,7 @@
 # 📊 Interactive Financial Decision Dashboard
 
 ## 🔗 Live App
-👉 [Insert your Streamlit link here]
+👉 https://stock-dashboard-dfafxamwjh7imqz2g7ho6t.streamlit.app/
 
 ---
 
