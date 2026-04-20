@@ -36,7 +36,7 @@ col1, col2, col3 = st.columns(3)
 
 col1.metric("Latest Price", f"${data['Close'].iloc[-1].item():.2f}")
 col2.metric("Average Price", f"${data['Close'].mean().item():.2f}")
-col3.metric("Volatility", f"{data['Returns'].std().item():.2f}")
+col3.metric("Volatility", f"{data['Close'].std().item():.2f}")
 
 # Indicators
 data['MA50'] = data['Close'].rolling(50).mean()
