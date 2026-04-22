@@ -1,7 +1,7 @@
 # 📊 Interactive Financial Decision Dashboard
 
 ## 🔗 Live App
-👉 https://stock-dashboard-dfafxamwjh7imqz2g7ho6t.streamlit.app/
+👉 https://acc102-track4-stock-dashboard-qyrj29n6bwsaqgydnk3hou.streamlit.app/
 
 ---
 
